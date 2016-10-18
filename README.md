@@ -7,6 +7,11 @@
 |:--|:--:|
 |[aicp_kltekdi_n-12.0-UNOFFICIAL-20161017.zip](https://mega.nz/#!FVtRVZKb!5fk4ocVpU_DM4ePHJYSt-zaCTCPK4HTC-mQ0GcLyzik)|[md5sum](https://mega.nz/#!0AMzHIwK!nY3VupEGMoctylkk-QHFhmGm0qMbCosl_VGetFR-mI0)|
 
+### Nexus 5 (hammerhead)
+|zip|md5sum|
+|:--|:--:|
+|[aicp_hammerhead_n-12.0-UNOFFICIAL-20161018.zip](https://mega.nz/#!tRcxDSLA!mQSg2Hm5KBW7j5BpVAyCZrERSE2LrQAwqmptomkkJ6Q)|[md5sum](https://mega.nz/#!hRFzxQpC!AChpjozqgUXOtiiXDEAnep_AMI9xyADNryvH294irO8)|
+
 ## Marshmallow
 
 ### docomo LG G2 L-01F (l01f)
@@ -38,6 +43,7 @@
 |zip|md5sum|
 |:--|:--:|
 |[aicp_b2wlj_mm-11.0-UNOFFICIAL-20161010.zip](https://mega.nz/#!IEcEzTqI!ba90DyGx0xCSaSDghGajZdqKZQ2BfaqYq-1cgbYEPc4)|[md5sum](https://mega.nz/#!EB0z3DST!QKpMv-QerI_atDNdAyBqKyHnas_F4qODm2_UM51w_fk)|
+|[aicp_b2wlj_mm-11.0-UNOFFICIAL-20161011](https://mega.nz/#!0YtUzbaB!bmiPIWeCcTscAN3Vx0c77y7SIZFqjr8hzBb4XUsKu04)|[md5sum](https://mega.nz#!NMtiVBjD!dfW1mSxoQPPK3ORPYRHQWRpkfC7JNHro0swMq3f3B7s)|
 
 ## TWRP
 |Image|Installable Zip|
