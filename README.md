@@ -11,6 +11,16 @@
 |zip|md5sum|
 |:--|:--:|
 |[aicp_hammerhead_n-12.0-UNOFFICIAL-20161018.zip](https://mega.nz/#!tRcxDSLA!mQSg2Hm5KBW7j5BpVAyCZrERSE2LrQAwqmptomkkJ6Q)|[md5sum](https://mega.nz/#!hRFzxQpC!AChpjozqgUXOtiiXDEAnep_AMI9xyADNryvH294irO8)|
+|[aicp_hammerhead_n-12.0-UNOFFICIAL-20161023.zip](https://www.androidfilehost.com/?fid=457095661767103524)|[md5sum](https://www.androidfilehost.com/?fid=312978532265364667)|
+|[aicp_hammerhead_n-12.0-UNOFFICIAL-20161023-camera.zip](https://www.androidfilehost.com/?fid=312968873555005367)|[md5sum](https://www.androidfilehost.com/?fid=312968873555005366)|
+|[aicp_hammerhead_n-12.0-UNOFFICIAL-20161023_enforce](https://www.androidfilehost.com/?fid=312978532265364746)|[md5sum](https://www.androidfilehost.com/?fid=312968873555005392)|
+|[aicp_hammerhead_n-12.0-UNOFFICIAL-20161024.zip](https://www.androidfilehost.com/?fid=385035244224386851)|[md5sum](https://www.androidfilehost.com/?fid=312978532265364826)|
+|[aicp_hammerhead_n-12.1-UNOFFICIAL-20161028.zip](https://www.androidfilehost.com/?fid=385035244224388377)|[md5sum](https://www.androidfilehost.com/?fid=457095661767105365)|
+
+### docomo LG G2 L-01F (l01f)
+|zip|md5sum|
+|:--|:--:|
+|[aicp_l01f_n-12.0-UNOFFICIAL-20161020.zip](https://mega.nz/#!xIMnGZBT!kxeC9dOmULR3MMAZb2s9u-QRRgRsGSWxFSljlzsdq28)|[md5sum](https://mega.nz/#!JNcQ0aBB!QIfHZfHPVrIAd27LuqphyBra1tBd3vXyMgzvDUWY1dA)|
 
 ## Marshmallow
 
@@ -43,9 +53,16 @@
 |zip|md5sum|
 |:--|:--:|
 |[aicp_b2wlj_mm-11.0-UNOFFICIAL-20161010.zip](https://mega.nz/#!IEcEzTqI!ba90DyGx0xCSaSDghGajZdqKZQ2BfaqYq-1cgbYEPc4)|[md5sum](https://mega.nz/#!EB0z3DST!QKpMv-QerI_atDNdAyBqKyHnas_F4qODm2_UM51w_fk)|
-|[aicp_b2wlj_mm-11.0-UNOFFICIAL-20161011](https://mega.nz/#!0YtUzbaB!bmiPIWeCcTscAN3Vx0c77y7SIZFqjr8hzBb4XUsKu04)|[md5sum](https://mega.nz#!NMtiVBjD!dfW1mSxoQPPK3ORPYRHQWRpkfC7JNHro0swMq3f3B7s)|
+|[aicp_b2wlj_mm-11.0-UNOFFICIAL-20161011.zip](https://mega.nz/#!0YtUzbaB!bmiPIWeCcTscAN3Vx0c77y7SIZFqjr8hzBb4XUsKu04)|[md5sum](https://mega.nz#!NMtiVBjD!dfW1mSxoQPPK3ORPYRHQWRpkfC7JNHro0swMq3f3B7s)|
+
+### HTC J One (m7wlj)
+|zip|md5sum|
+|:--|:--:|
+|[aicp_m7wlj_mm-11.0-UNOFFICIAL-20161029.zip](https://www.androidfilehost.com/?fid=529152257862672486)|[md5sum](https://www.androidfilehost.com/?fid=385035244224389649)|
+|[aicp_m7wlj_mm-11.0-UNOFFICIAL-20161110.zip](https://www.androidfilehost.com/?fid=529152257862679997)|[md5sum](https://www.androidfilehost.com/?fid=529152257862679998)|
 
 ## TWRP
 |Image|Installable Zip|
 |:-:|:-:|
 |[twrp-3.0.2-0-thor.img](https://mega.nz/#!UM1C2aKJ!p_KhOuc8a7PAbbk59GbrVUbiyb5X2G2svzaw7HL-FKY)|---|
+|[twrp-3.0.2-0-m7wlj.img](https://www.androidfilehost.com/?fid=529152257862679145)|---|
