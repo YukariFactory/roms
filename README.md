@@ -65,6 +65,14 @@ Marshmallow Roms
 |[aicp_m7wlj_mm-11.0-UNOFFICIAL-20161029.zip](https://www.androidfilehost.com/?fid=529152257862672486)|[md5sum](https://www.androidfilehost.com/?fid=385035244224389649)|
 |[aicp_m7wlj_mm-11.0-UNOFFICIAL-20161110.zip](https://www.androidfilehost.com/?fid=529152257862679997)|[md5sum](https://www.androidfilehost.com/?fid=529152257862679998)|
 
+JellyBean Roms
+----------
+
+### Xperia TX LT29i (Locked)
+|zip|md5sum|
+|:--|:--:|
+|[cm-10.2-20161115-EXPERIMENTAL-hayabusa.zip](https://www.androidfilehost.com/?fid=457095661767115798)|[md5sum](https://www.androidfilehost.com/?fid=529152257862681655)|
+
 TWRP Recovery Images
 ----------
 |Image|Installable Zip|
