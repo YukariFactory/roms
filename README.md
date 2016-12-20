@@ -8,6 +8,7 @@ Nougat Roms
 |zip|md5sum|
 |:--|:--:|
 |[aicp_kltekdi_n-12.0-UNOFFICIAL-20161017.zip](https://mega.nz/#!FVtRVZKb!5fk4ocVpU_DM4ePHJYSt-zaCTCPK4HTC-mQ0GcLyzik)|[md5sum](https://mega.nz/#!0AMzHIwK!nY3VupEGMoctylkk-QHFhmGm0qMbCosl_VGetFR-mI0)|
+|[aicp_kltekdi_n-12.1-UNOFFICIAL-20161211.zip](https://www.androidfilehost.com/?fid=745425885120693056 …)|[md5sum](https://www.androidfilehost.com/?fid=673368273298916211)|
 
 ### Nexus 5 (hammerhead)
 |zip|md5sum|
