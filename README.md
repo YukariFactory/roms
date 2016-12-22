@@ -82,3 +82,5 @@ TWRP Recovery Images
 |[twrp-3.0.2-0-m7wlj.img](https://www.androidfilehost.com/?fid=529152257862679145)|---|
 |[twrp-3.0.3-0-l01f.img](https://www.androidfilehost.com/?fid=529152257862689729)|---|
 |[twrp-3.0.3-0-thor.img](https://www.androidfilehost.com/?fid=529152257862689746)|---|
+|[twrp-3.0.3-1-thor.img](https://www.androidfilehost.com/?fid=745425885120695014)|---|
+|[twrp-3.0.3-1-l01f.img](https://www.androidfilehost.com/?fid=673368273298918172)|---|
