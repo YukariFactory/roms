@@ -26,6 +26,11 @@ Nougat Roms
 |[aicp_l01f_n-12.0-UNOFFICIAL-20161020.zip](https://mega.nz/#!xIMnGZBT!kxeC9dOmULR3MMAZb2s9u-QRRgRsGSWxFSljlzsdq28)|[md5sum](https://mega.nz/#!JNcQ0aBB!QIfHZfHPVrIAd27LuqphyBra1tBd3vXyMgzvDUWY1dA)|
 |[cm-14.1-20161209-UNOFFICIAL-l01f.zip](https://www.androidfilehost.com/?fid=457095661767121844)|[md5sum](https://www.androidfilehost.com/?fid=529152257862687612)|
 
+### LeEco Le Max 2 (x2)
+|zip|md5sum|
+|:--|:--:|
+|[cm-14.1-20161224-UNOFFICIAL-x2](https://www.androidfilehost.com/?fid=673368273298918907)|[md5sum](https://www.androidfilehost.com/?fid=745425885120695730)|
+
 Marshmallow Roms
 ----------
 
